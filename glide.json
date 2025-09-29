@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Simple Test",
+    "description": "Tiny test game",
+    "author": "Test",
+    "params": [
+      {
+        "name": "playerName",
+        "displayName": "Player Name",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
